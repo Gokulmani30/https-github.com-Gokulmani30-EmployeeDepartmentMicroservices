@@ -1,0 +1,24 @@
+
+# Maven build files
+**/target/
+
+# Eclipse files
+.settings/
+.project
+.classpath
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
